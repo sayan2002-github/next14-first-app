@@ -1,0 +1,33 @@
+.navProperty{
+    background-color: #581c87 !important;
+    color: white !important;
+}
+
+.link{
+    padding: 7px;
+}
+
+.logoutBtn{
+    border: 2px solid white;
+    margin: 0 20px;
+    background-color: white;
+    color: red;
+    border-radius: 10px;
+    padding: 0 8px;
+    font-weight: bold;
+}
+
+.logoutBtn:hover{
+    background-color: #581c87;
+    color: white;
+}
+
+.heading{
+    margin: auto 0;
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.navbarRightElement{
+    float: right;
+}

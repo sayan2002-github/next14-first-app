@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+    /* background-color: purple; */
+    color: aliceblue;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.d-flex li{
+    margin-left: 20px;
+}
